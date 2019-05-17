@@ -63,7 +63,7 @@ Log in to Azure subscription portal
 
 Activate your Azure team subscription
 
-1.  On the Join course page, enter your assigned conference code ( \$2) to
+1.  On the Join course page, enter your assigned conference code to
     activate your team Azure subscription
 
 2.  Select **Join**
