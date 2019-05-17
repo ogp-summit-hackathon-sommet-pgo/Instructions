@@ -2,7 +2,7 @@
 
 The Azure Environment Setup Guide
 
-Welcome to the Disrupt AI Hackathon!
+Welcome to the OGP Summit Hackathon!
 
 Team Number: \$1
 
