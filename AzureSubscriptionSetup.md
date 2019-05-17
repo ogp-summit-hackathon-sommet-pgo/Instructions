@@ -115,8 +115,7 @@ Step 3: Add your team members/users to the team subscription:
     filter**”
 
 2.  Select your subscription name from the subscription list. The subscription
-    name will either be *Microsoft Azure Sponsorship 2*, or will contain the
-    phrase *Disrupt AI.*
+    name will either be or will contain the phrase *OGP Summit Hackathon*
 
 ![C:\\Users\\sibach\\AppData\\Local\\Temp\\SNAGHTML24477674.PNG](media/aeead593bf0c17a4e15309116d9d2d1c.png)
 
