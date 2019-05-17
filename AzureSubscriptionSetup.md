@@ -1,12 +1,8 @@
 ![](media/1c253bf5f390611493e677757d08f8d7.png)
 
-The Azure Environment Setup Guide
+# The Azure Environment Setup Guide
 
 Welcome to the OGP Summit Hackathon!
-
-Team Number: \$1
-
-Code: \$2
 
 This guide will show you how to get your team access to your Azure credits for
 the hackathon
