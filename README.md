@@ -20,7 +20,7 @@ If you already have an account, please have your handle provided to your teamlea
 
 ### Open Source
 
-Unlike typical challenges, the goal of this event is not only to showcase your creativity and innovation skills, but to actually create communitiAnd consult the [Particpant Guide](./ParticipantsGuideParticipants.md) for more details!es around your project. You will be leveraging open data but also open source software to take on some incredible challenges that all countries are facing.
+Unlike typical challenges, the goal of this event is not only to showcase your creativity and innovation skills, but to actually create communities around your project. You will be leveraging open data but also open source software to take on some incredible challenges that all countries are facing.
 
 As such, all projects should be released under an open source licence to increase reuse and encourage collaboration internationally.
 
