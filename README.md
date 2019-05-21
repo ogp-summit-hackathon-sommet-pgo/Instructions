@@ -2,6 +2,10 @@
 
 [Le français suit](#instructions-fr)
 
+## Registration
+
+Please register on our [EventBrite page](https://www.eventbrite.ca/e/hackathon-ogp-global-summit-2019-sommet-mondial-du-pgo-2019-tickets-61159685265)!
+
 ## Projects
 
 All projects should be hosted on this GitHub [organization](https://help.github.com/en/articles/about-organizations):
@@ -55,6 +59,10 @@ If your team will require Azure Data Science Virtual Machines, please follow the
 Upcoming (other partners services)
 
 # Instructions-FR
+
+## Inscriptions
+
+Enregistrez-vous sur notre [page EventBrite](https://www.eventbrite.ca/e/hackathon-ogp-global-summit-2019-sommet-mondial-du-pgo-2019-tickets-61159685265)!
 
 ## Projets
 
