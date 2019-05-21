@@ -6,6 +6,8 @@
 
 Please register on our [EventBrite page](https://www.eventbrite.ca/e/hackathon-ogp-global-summit-2019-sommet-mondial-du-pgo-2019-tickets-61159685265)!
 
+And consult the [Participant Guide](./ParticipantsGuideParticipants.md) for more details!
+
 ## Projects
 
 All projects should be hosted on this GitHub [organization](https://help.github.com/en/articles/about-organizations):
@@ -18,7 +20,7 @@ If you already have an account, please have your handle provided to your teamlea
 
 ### Open Source
 
-Unlike typical challenges, the goal of this event is not only to showcase your creativity and innovation skills, but to actually create communities around your project. You will be leveraging open data but also open source software to take on some incredible challenges that all countries are facing.
+Unlike typical challenges, the goal of this event is not only to showcase your creativity and innovation skills, but to actually create communitiAnd consult the [Particpant Guide](./ParticipantsGuideParticipants.md) for more details!es around your project. You will be leveraging open data but also open source software to take on some incredible challenges that all countries are facing.
 
 As such, all projects should be released under an open source licence to increase reuse and encourage collaboration internationally.
 
@@ -63,6 +65,8 @@ Upcoming (other partners services)
 ## Inscriptions
 
 Enregistrez-vous sur notre [page EventBrite](https://www.eventbrite.ca/e/hackathon-ogp-global-summit-2019-sommet-mondial-du-pgo-2019-tickets-61159685265)!
+
+Et consultez le [Guide des participants](./ParticipantsGuideParticipants.md#guide-des-participants) pour plus de détails!
 
 ## Projets
 
