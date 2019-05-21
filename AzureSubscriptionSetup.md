@@ -1,3 +1,5 @@
+[Back to Instructions](./README.md)
+
 ![](media/1c253bf5f390611493e677757d08f8d7.png)
 
 # The Azure Environment Setup Guide
