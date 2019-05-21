@@ -1,3 +1,5 @@
+[Back to Instructions](./README.md)
+
 # Participants Guide
 
 [Le français suit](#guide-des-participants)
