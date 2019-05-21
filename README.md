@@ -104,6 +104,6 @@ Si vous êtes en personne, le mentor disponible se joindra à vous à la table d
 
 Nos partenaires offrent de nombreux outils et services, ainsi que des mentors pour vous soutenir dans votre projet.
 
-Si votre équipe a besoin de machines virtuelles Azure Data Science, veuillez suivre les instructions suivantes[instructions](./AzureSubscriptionSetup.md). 
+Si votre équipe a besoin de machines virtuelles Azure Data Science, veuillez suivre les instructions suivantes [instructions](./AzureSubscriptionSetup.md).
 
 Prochainement (autres services partenaires)
