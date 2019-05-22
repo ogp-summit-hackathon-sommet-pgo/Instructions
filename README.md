@@ -2,6 +2,8 @@
 
 [Le français suit](#instructions-fr)
 
+>Note: This is a living document and updates are consistently being made to it. We'll add more tools and services as time goes. If you know of a tool or service that should be included in the section below, please don't hesitate to suggest it by creating an [issue](https://github.com/ogp-summit-hackathon-sommet-pgo/Instructions/issues/new).
+
 ## Step-by-step
 
 1. [Register to the event](#registration)
@@ -65,6 +67,30 @@ If you're in person, the available mentor will then join you at your team's tabl
 
 ## Tools and Services
 
+### Tools
+
+Known open source tools and libraries for data science and visualization:
+
+* [Visual Studio Code](https://code.visualstudio.com/): Highly customizable Integrated Development Environment
+* [Candela](https://candela.readthedocs.io/en/latest/#): JavaScript, R and Python data visualization components
+* [Charted](https://www.charted.co/)  Online data visualization tool
+* Plotly: Data vizualisation library for:
+  * [JavaScript](https://plot.ly/javascript/)
+  * [Python](https://plot.ly/python/)
+  * [R](https://plot.ly/r/)
+* [Leaflet](https://leafletjs.com/): JavaScript library for mobile-friendly interactive maps
+* [RawGraphs](https://rawgraphs.io/): Online data visualization tool
+* [Chartist.js](https://gionkunz.github.io/chartist-js/): JavaScript library to generate simple responsive charts
+* [D3.js](https://d3js.org/): JavaScript library for manipulating documents based on data (Recommended for advanced users)
+
+Programming languages with strong data science and visualization support:
+
+* [Python](https://www.python.org/)
+* [R](https://www.r-project.org/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Services
+
 Our partners are offering a lot of tools and services, as well as mentors to support you in your project.
 
 If your team will require Azure Data Science Virtual Machines, please follow the following [instructions](./AzureSubscriptionSetup.md). 
@@ -72,6 +98,8 @@ If your team will require Azure Data Science Virtual Machines, please follow the
 Upcoming (other partners services)
 
 # Instructions-FR
+
+>Note : Il s'agit d'un document en évolution et des mises à jour y sont régulièrement apportées. Nous ajouterons d'autres outils et services au fil du temps. Si vous connaissez un outil ou un service qui devrait être inclus dans la section ci-dessous, n'hésitez pas à le suggérer en créant une ["issue"](https://github.com/ogp-summit-hackathon-sommet-pgo/Instructions/issues/new) (équivalent à un billet).
 
 ## Étapes
 
@@ -135,6 +163,30 @@ Par exemple, si votre équipe est confrontée à un problème d'ensemble de donn
 Si vous êtes en personne, le mentor disponible se joindra à vous à la table de votre équipe pour vous aider. Sinon, l'aide peut être fournie directement dans le canal ou via un canal vocal dédié. 
 
 ## Outils et services
+
+### Outils
+
+Outils et bibliothèques de logiciels libres connus pour la science et la visualisation des données :
+
+* [Visual Studio Code](https://code.visualstudio.com/) : Environnement de développement intégré hautement personnalisable
+* [Candela](https://candela.readthedocs.io/en/latest/#) : Composantes de visualisation de données JavaScript, R et Python
+* [Charted](https://www.charted.co/) Outil de visualisation des données en ligne
+* Plotly : Bibliothèque de visualisation des données pour :
+  * [JavaScript](https://plot.ly/javascript/)
+  * [Python](https://plot.ly/python/)
+  * [R](https://plot.ly/r/)
+* [Leaflet](https://leafletjs.com/) : Bibliothèque JavaScript pour des cartes interactives adaptées aux téléphones portables
+* [RawGraphs](https://rawgraphs.io/) : Outil de visualisation de données en ligne
+* [Chartist.js](https://gionkunz.github.io/chartist-js/) : Bibliothèque JavaScript pour générer des graphiques simples et réactifs
+* [D3.js](https://d3js.org/) : Bibliothèque JavaScript pour manipuler des documents basés sur des données (recommandée pour les utilisateurs avancés)
+
+Langages de programmation avec un fort support  pour la visualisation et la science des données :
+
+* [Python](https://www.python.org/)
+* [R](https://www.r-project.org/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Services
 
 Nos partenaires offrent de nombreux outils et services, ainsi que des mentors pour vous soutenir dans votre projet.
 
