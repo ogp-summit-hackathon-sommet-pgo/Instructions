@@ -25,7 +25,7 @@ In order to be able to work with GitHub, you will need to [create an account](ht
 
 If you already have an account, please have your handle provided to your teamlead so that you can be added in the organization and have the required rights to push changes to the project.
 
-Teamleads, please send an email with your team name and members to the [organizers](mailto:guillaume.charest@gcdigital.canada.ca) to have your team created on GitHub and Discord.
+Teamleads, please send an email with your team name and members to the [organizers](mailto:guillaume.charest@gcdigital.canada.ca?subject=Hackathon-Instructions) to have your team created on GitHub and Discord.
 
 ### Open Source
 
@@ -96,7 +96,7 @@ Afin de pouvoir travailler avec GitHub, vous aurez besoin de [créer un compte](
 
 Si vous avez déjà un compte, veuillez fournir votre identifiant à votre chef d'équipe afin de pouvoir être ajouté dans l'organisation et avoir les droits requis pour pousser des changements au projet.
 
-Les chefs d'équipes, veuillez s'il-vous-plait envoyer un courriel aux [organisateurs] (mailto:guillaume.charest@gcdigital.canada.ca) avec votre nom et les membres de votre équipe pour que nous puissions créer les équipes sur GitHub et Discord.
+Les chefs d'équipes, veuillez s'il-vous-plait envoyer un courriel aux [organisateurs] (mailto:guillaume.charest@gcdigital.canada.ca?subject=Hackathon-Instructions) avec votre nom et les membres de votre équipe pour que nous puissions créer les équipes sur GitHub et Discord.
 
 #### Logiciel libre
 
