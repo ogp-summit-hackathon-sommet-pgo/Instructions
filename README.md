@@ -96,7 +96,7 @@ Afin de pouvoir travailler avec GitHub, vous aurez besoin de [créer un compte](
 
 Si vous avez déjà un compte, veuillez fournir votre identifiant à votre chef d'équipe afin de pouvoir être ajouté dans l'organisation et avoir les droits requis pour pousser des changements au projet.
 
-Les chefs d'équipes, veuillez s'il-vous-plait envoyer un courriel aux [organisateurs] (mailto:guillaume.charest@gcdigital.canada.ca?subject=Hackathon-Instructions) avec votre nom et les membres de votre équipe pour que nous puissions créer les équipes sur GitHub et Discord.
+Les chefs d'équipes, veuillez s'il-vous-plait envoyer un courriel aux [organisateurs](mailto:guillaume.charest@gcdigital.canada.ca?subject=Hackathon-Instructions) avec votre nom et les membres de votre équipe pour que nous puissions créer les équipes sur GitHub et Discord.
 
 #### Logiciel libre
 
