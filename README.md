@@ -97,6 +97,8 @@ If your team will require Azure Data Science Virtual Machines, please follow the
 
 Upcoming (other partners services)
 
+---
+
 # Instructions-FR
 
 >Note : Il s'agit d'un document en évolution et des mises à jour y sont régulièrement apportées. Nous ajouterons d'autres outils et services au fil du temps. Si vous connaissez un outil ou un service qui devrait être inclus dans la section ci-dessous, n'hésitez pas à le suggérer en créant une ["issue"](https://github.com/ogp-summit-hackathon-sommet-pgo/Instructions/issues/new) (équivalent à un billet).
