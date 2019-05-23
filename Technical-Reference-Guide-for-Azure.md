@@ -47,6 +47,6 @@ a head start:
 
 -   [Databricks (Spark based Analytics Platform)](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
 
--   [Data Science Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)
+-   Pre-configured Azure [Data Science Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview) - These include Open Source and/or propietary tools. Any propietary components can be swapped for Open Source tools of preference.
 
 -   [Deep Learning Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
