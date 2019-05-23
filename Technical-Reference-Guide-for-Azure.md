@@ -50,3 +50,5 @@ a head start:
 -   Pre-configured Azure [Data Science Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview) - These include Open Source and/or propietary tools. Any propietary components can be swapped for Open Source tools of preference.
 
 -   [Deep Learning Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
+
+### Other Open Source Specific Azure Documentation:
