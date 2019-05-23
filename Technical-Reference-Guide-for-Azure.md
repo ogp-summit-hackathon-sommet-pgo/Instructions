@@ -52,3 +52,9 @@ a head start:
 -   [Deep Learning Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
 
 ### Other Open Source Specific Azure Documentation:
+
+ 	OSS Languages/Frameworks: Go / Java / PHP / Python / Node.js & JavaScript / Ruby
+ 	OSS Infrastructure & Distributed Systems Platform: LAMP / MEAN / OpenShift / Cloud Foundry / Containers / Linux VMs / Kubernetes
+ 	OSS DevOps & Tools: Azure DevOps Services / Chef / Jenkins / Terraform / Ansible / Draft / Helm
+ 	OSS Data Platform & Analytics: Hadoop/Kafka/Spark/Storm / MySQL / PostgreSQL & HyperScale via Citus / Redis Cache
+ 	You can also browse to various Azure services and then contribute to tutorials or samples for a specific OSS language that interacts with that service. Eg. JavaScript for Azure Functions or JavaScript for Azure Mobile Apps
