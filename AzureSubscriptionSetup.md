@@ -166,4 +166,6 @@ Azure notifications
 
 Add additional role assignments for each member of the team you wish to have access to the team Azure subscription.
 
+### What Next?
+
 Once you have setup your team's Azure subscription, you can view these [handy resources](./Technical-Reference-Guide-for-Azure.md) for a quick start on your idea.
