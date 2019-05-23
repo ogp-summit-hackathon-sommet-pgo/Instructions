@@ -93,7 +93,7 @@ Programming languages with strong data science and visualization support:
 
 Our partners are offering a lot of tools and services, as well as mentors to support you in your project.
 
-If your team will require any cloud services such as pre-configured Data Science Virtual Machines, please follow the following [instructions](./AzureSubscriptionSetup.md) for access to a free Azure subscription for your team. All Open Source tools and services (eg. managed Kubernetes), many Linux distributions, OSS databases, analytics, big data solutions such as TensorFlow are supported and available in Azure. 
+If your team will require any cloud services such as pre-configured Data Science Virtual Machines, please follow the following [instructions for access to a free Azure subscription for your team](./AzureSubscriptionSetup.md). All Open Source tools and services (eg. managed Kubernetes), many Linux distributions, OSS databases, analytics, big data solutions such as TensorFlow are supported and available in Azure. 
 
 Additionally, once you have setup your team's Azure subscription, you can view these [handy resources](./Technical-Reference-Guide-for-Azure.md) for a quick start on your idea.
 
