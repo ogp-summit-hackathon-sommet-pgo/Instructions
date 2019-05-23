@@ -9,7 +9,7 @@ Welcome to the OGP Summit Hackathon!
 This guide will show you how to get your team access to your Azure credits for
 the hackathon
 
--   Each team receives \$150 in Azure credits
+-   Each team receives \$130 in Azure credits
 
 -   **\*Only one**\* team member should complete the steps in this guide to ensure only one Azure subscription gets created per team. All other team members will be added to the subscription. The conference code will be provided once the hackathon kicks off on May 27th.
 
