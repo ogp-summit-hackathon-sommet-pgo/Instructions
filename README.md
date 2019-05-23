@@ -97,6 +97,36 @@ If your team will require any cloud services such as pre-configured Data Science
 
 Upcoming (other partners services)
 
+### Data Sets
+
+This is a list of datasets that you can use for your hackathon. This is just for reference and is not a holistic reference of datasets - please feel free to bring in your own datasets as needed.
+
+-   [Public Datasets for testing and
+    prototyping](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets)
+
+-   [Microsoft Research Open Data](https://msropendata.com/)
+
+-   [3 Million Instacart Orders
+    Opensourced](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+-   [Visual Data Sets](https://www.visualdata.io/)
+
+-   [Broad Institute : Cancer Program
+    Datasets](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
+
+-   [World Bank Open Data](https://data.worldbank.org/)
+
+-   [Government of Canada – Open Data](https://open.canada.ca/en/open-data)
+
+-   [US Governments Open Data: Data.gov](https://www.data.gov/)
+
+-   [United Nations Data Catalog](https://undatacatalog.org/home )
+
+-   [HealthGov Data](https://healthdata.gov/)
+
+-   [Great IoT, Sensor and other dataset
+    repositories](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
+
 ---
 
 # Instructions-FR
