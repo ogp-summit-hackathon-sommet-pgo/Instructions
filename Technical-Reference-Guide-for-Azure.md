@@ -58,7 +58,7 @@ a head start:
  ### OSS Infrastructure & Distributed Systems Platform:
  [LAMP](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lamp-stack) / [MEAN](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-mean-stack) / [OpenShift](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/openshift-get-started) / [Cloud Foundry](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/cloudfoundry-get-started) / [Containers](./https://docs.microsoft.com/en-us/azure/containers/) / [Linux VMs](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) / [Kubernetes](./https://docs.microsoft.com/en-us/azure/aks/)
  ### OSS DevOps & Tools:
- Azure DevOps Services / Chef / Jenkins / Terraform / Ansible / Draft / Helm
+ [Azure DevOps Services](./https://docs.microsoft.com/en-us/azure/devops/deploy-azure/?view=azure-devops) (integration with OSS tools and offers free pipelines for Open Source) / [Chef](./https://docs.microsoft.com/en-us/azure/chef/) / [Jenkins](./https://docs.microsoft.com/en-us/azure/jenkins/) / [Terraform](./https://docs.microsoft.com/en-us/azure/terraform/) / [Ansible](./https://docs.microsoft.com/en-us/azure/ansible/) / [Draft](./https://docs.microsoft.com/en-us/azure/aks/kubernetes-draft) / [Helm](./https://docs.microsoft.com/en-us/azure/aks/kubernetes-helm)
  # OSS Data Platform & Analytics:
  Hadoop/Kafka/Spark/Storm / MySQL / PostgreSQL & HyperScale via Citus / Redis Cache
  
