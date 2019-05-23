@@ -51,10 +51,15 @@ a head start:
 
 -   [Deep Learning Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
 
-### Other Open Source Specific Azure Documentation:
+# Other Open Source Specific Azure Documentation:
 
- 	OSS Languages/Frameworks: Go / Java / PHP / Python / Node.js & JavaScript / Ruby
- 	OSS Infrastructure & Distributed Systems Platform: LAMP / MEAN / OpenShift / Cloud Foundry / Containers / Linux VMs / Kubernetes
- 	OSS DevOps & Tools: Azure DevOps Services / Chef / Jenkins / Terraform / Ansible / Draft / Helm
- 	OSS Data Platform & Analytics: Hadoop/Kafka/Spark/Storm / MySQL / PostgreSQL & HyperScale via Citus / Redis Cache
- 	You can also browse to various Azure services and then contribute to tutorials or samples for a specific OSS language that interacts with that service. Eg. JavaScript for Azure Functions or JavaScript for Azure Mobile Apps
+ # OSS Languages/Frameworks: 
+ [Go](./https://docs.microsoft.com/en-us/go/azure/) / [Java](./https://docs.microsoft.com/en-us/java/azure/) / [PHP](./https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-php) / [Python](./https://docs.microsoft.com/en-us/python/azure/?view=azure-python) / [Node.js & JavaScript](./https://docs.microsoft.com/en-us/javascript/azure/?view=azure-node-latest) / [Ruby](./https://azure.microsoft.com/en-us/develop/ruby/)
+ # OSS Infrastructure & Distributed Systems Platform:
+ LAMP / MEAN / OpenShift / Cloud Foundry / Containers / Linux VMs / Kubernetes
+ # OSS DevOps & Tools:
+ Azure DevOps Services / Chef / Jenkins / Terraform / Ansible / Draft / Helm
+ # OSS Data Platform & Analytics:
+ Hadoop/Kafka/Spark/Storm / MySQL / PostgreSQL & HyperScale via Citus / Redis Cache
+ 
+You can also browse to various Azure services and then contribute to tutorials or samples for a specific OSS language that interacts with that service. Eg. JavaScript for Azure Functions or JavaScript for Azure Mobile Apps
