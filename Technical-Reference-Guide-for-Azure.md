@@ -55,9 +55,9 @@ a head start:
 
  ### OSS Languages/Frameworks: 
  [Go](./https://docs.microsoft.com/en-us/go/azure/) / [Java](./https://docs.microsoft.com/en-us/java/azure/) / [PHP](./https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-php) / [Python](./https://docs.microsoft.com/en-us/python/azure/?view=azure-python) / [Node.js & JavaScript](./https://docs.microsoft.com/en-us/javascript/azure/?view=azure-node-latest) / [Ruby](./https://azure.microsoft.com/en-us/develop/ruby/)
- # OSS Infrastructure & Distributed Systems Platform:
- LAMP / MEAN / OpenShift / Cloud Foundry / Containers / Linux VMs / Kubernetes
- # OSS DevOps & Tools:
+ ### OSS Infrastructure & Distributed Systems Platform:
+ [LAMP](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lamp-stack) / [MEAN](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-mean-stack) / [OpenShift](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/openshift-get-started) / [Cloud Foundry](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/cloudfoundry-get-started) / [Containers](./https://docs.microsoft.com/en-us/azure/containers/) / [Linux VMs](./https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) / [Kubernetes](./https://docs.microsoft.com/en-us/azure/aks/)
+ ### OSS DevOps & Tools:
  Azure DevOps Services / Chef / Jenkins / Terraform / Ansible / Draft / Helm
  # OSS Data Platform & Analytics:
  Hadoop/Kafka/Spark/Storm / MySQL / PostgreSQL & HyperScale via Citus / Redis Cache
