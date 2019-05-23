@@ -15,6 +15,8 @@ the hackathon
 
 -   All team members using Azure will require a Microsoft account
 
+-   Once you have setup your team's Azure subscription, you can view these [handy resources](./Technical-Reference-Guide-for-Azure.md) for a quick start on your idea
+
  
 
 Step 1: Create a Microsoft account
@@ -162,5 +164,6 @@ Azure notifications
 
 ![C:\\Users\\sibach\\AppData\\Local\\Temp\\SNAGHTML24563626.PNG](media/de15da15816837bd2f990eba88439b0a.png)
 
-Add additional role assignments for each member of the team you wish to have
-access to the team Azure subscription.
+Add additional role assignments for each member of the team you wish to have access to the team Azure subscription.
+
+Once you have setup your team's Azure subscription, you can view these [handy resources](./Technical-Reference-Guide-for-Azure.md) for a quick start on your idea.
