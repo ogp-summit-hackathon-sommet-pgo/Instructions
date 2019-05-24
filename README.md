@@ -63,7 +63,7 @@ There will be text channels per topics to request the help of our gracious mento
 
 For example, if your team is stuck with a data set issue, you can join the #data-donnees channel and request help.
 
-If you're in person, the available mentor will then join you at your team's table to help. Otherwise, the help can be provided directly in the channel or via a dedicated voice channel. 
+If you're in person, the available mentor will then join you at your team's table to help. Otherwise, the help can be provided directly in the channel or via a dedicated voice channel.
 
 ## Tools and Services
 
@@ -89,11 +89,11 @@ Programming languages with strong data science and visualization support:
 * [R](https://www.r-project.org/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Services
+### Services (EN)
 
 Our partners are offering a lot of tools and services, as well as mentors to support you in your project.
 
-If your team will require any cloud services such as pre-configured Data Science Virtual Machines, please follow the following [instructions for access to a free Azure subscription for your team](./AzureSubscriptionSetup.md). All Open Source tools and services (eg. managed Kubernetes), many Linux distributions, OSS databases, analytics, big data solutions such as TensorFlow are supported and available in Azure. 
+If your team will require any cloud services such as pre-configured Data Science Virtual Machines, please follow the following [instructions for access to a free Azure subscription for your team](./AzureSubscriptionSetup.md). All Open Source tools and services (eg. managed Kubernetes), many Linux distributions, OSS databases, analytics, big data solutions such as TensorFlow are supported and available in Azure.
 
 Additionally, once you have setup your team's Azure subscription, you can view these [handy resources](./Technical-Reference-Guide-for-Azure.md) for a quick start on your idea.
 
@@ -103,35 +103,37 @@ Upcoming (other partners services)
 
 This is a list of datasets that you can use for your hackathon. This is just for reference and is not a holistic reference of datasets - please feel free to bring in your own datasets as needed.
 
--   [Public Datasets for testing and
+* [Public Datasets for testing and
     prototyping](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets)
 
--   [Microsoft Research Open Data](https://msropendata.com/)
+* [Microsoft Research Open Data](https://msropendata.com/)
 
--   [3 Million Instacart Orders
+* [3 Million Instacart Orders
     Opensourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 
--   [Visual Data Sets](https://www.visualdata.io/)
+* [Visual Data Sets](https://www.visualdata.io/)
 
--   [Broad Institute : Cancer Program
+* [Broad Institute : Cancer Program
     Datasets](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 
--   [World Bank Open Data](https://data.worldbank.org/)
+* [World Bank Open Data](https://data.worldbank.org/)
 
--   [Government of Canada – Open Data](https://open.canada.ca/en/open-data)
+* [Government of Canada – Open Data](https://open.canada.ca/en/open-data)
 
--   [US Governments Open Data: Data.gov](https://www.data.gov/)
+* [US Governments Open Data: Data.gov](https://www.data.gov/)
 
--   [United Nations Data Catalog](https://undatacatalog.org/home )
+* [United Nations Data Catalog](https://undatacatalog.org/home )
 
--   [HealthGov Data](https://healthdata.gov/)
+* [HealthGov Data](https://healthdata.gov/)
 
--   [Great IoT, Sensor and other dataset
+* [Great IoT, Sensor and other dataset
     repositories](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
 
 ---
 
+<!-- markdownlint-disable MD025 -->
 # Instructions-FR
+<!-- markdownlint-enable MD025 -->
 
 >Note : Il s'agit d'un document en évolution et des mises à jour y sont régulièrement apportées. Nous ajouterons d'autres outils et services au fil du temps. Si vous connaissez un outil ou un service qui devrait être inclus dans la section ci-dessous, n'hésitez pas à le suggérer en créant une ["issue"](https://github.com/ogp-summit-hackathon-sommet-pgo/Instructions/issues/new) (équivalent à un billet).
 
@@ -160,7 +162,7 @@ Si vous avez déjà un compte, veuillez fournir votre identifiant à votre chef 
 
 Les chefs d'équipes, veuillez s'il-vous-plait envoyer un courriel aux [organisateurs](mailto:guillaume.charest@gcdigital.canada.ca?subject=Hackathon-Instructions) avec votre nom et les membres de votre équipe pour que nous puissions créer les équipes sur GitHub et Discord.
 
-#### Logiciel libre
+### Logiciel libre
 
 Contrairement aux défis typiques, le but de cet événement n'est pas seulement de mettre en valeur votre créativité et vos capacités d'innovation, mais aussi de créer des communautés autour de votre projet. Vous utiliserez des données ouvertes mais aussi des logiciels libres pour relever des défis incroyables auxquels tous les pays sont confrontés.
 
@@ -188,13 +190,13 @@ Les gens sur place pourront se joindre aux canaux pour demander de l'aide et les
 
 Les gens en ligne pourront envoyer un message à nos mentors et des canaux de clavardage seront disponibles pour discuter des enjeux.
 
-##### Chaînes
+#### Chaînes
 
 Il y aura des canaux de texte par sujet pour demander l'aide de nos mentors.
 
 Par exemple, si votre équipe est confrontée à un problème d'ensemble de données, vous pouvez rejoindre le canal #data-donnees et demander de l'aide.
 
-Si vous êtes en personne, le mentor disponible se joindra à vous à la table de votre équipe pour vous aider. Sinon, l'aide peut être fournie directement dans le canal ou via un canal vocal dédié. 
+Si vous êtes en personne, le mentor disponible se joindra à vous à la table de votre équipe pour vous aider. Sinon, l'aide peut être fournie directement dans le canal ou via un canal vocal dédié.
 
 ## Outils et services
 
@@ -220,7 +222,7 @@ Langages de programmation avec un fort support  pour la visualisation et la scie
 * [R](https://www.r-project.org/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Services
+### Services (FR)
 
 Nos partenaires offrent de nombreux outils et services, ainsi que des mentors pour vous soutenir dans votre projet.
 
