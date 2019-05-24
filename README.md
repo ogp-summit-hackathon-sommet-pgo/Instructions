@@ -69,7 +69,7 @@ If you're in person, the available mentor will then join you at your team's tabl
 
 ### Tools
 
-Known open source tools and libraries for data science and visualization:
+Common known open source tools and libraries for data science and visualization:
 
 * [Visual Studio Code](https://code.visualstudio.com/): Highly customizable Integrated Development Environment
 * [Candela](https://candela.readthedocs.io/en/latest/#): JavaScript, R and Python data visualization components
@@ -82,6 +82,7 @@ Known open source tools and libraries for data science and visualization:
 * [RawGraphs](https://rawgraphs.io/): Online data visualization tool
 * [Chartist.js](https://gionkunz.github.io/chartist-js/): JavaScript library to generate simple responsive charts
 * [D3.js](https://d3js.org/): JavaScript library for manipulating documents based on data (Recommended for advanced users)
+* [TensorFlow](https://www.tensorflow.org/): An open source machine learning library for research and production. (recommandée pour les utilisateurs avancés)
 
 Programming languages with strong data science and visualization support:
 
@@ -126,8 +127,7 @@ This is a list of datasets that you can use for your hackathon. This is just for
 
 * [HealthGov Data](https://healthdata.gov/)
 
-* [Great IoT, Sensor and other dataset
-    repositories](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
+* [Great IoT, Sensor and other dataset repositories](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
 
 ---
 
@@ -202,7 +202,7 @@ Si vous êtes en personne, le mentor disponible se joindra à vous à la table d
 
 ### Outils
 
-Outils et bibliothèques de logiciels libres connus pour la science et la visualisation des données :
+Outils et bibliothèques de logiciels libres reconnus pour la science et la visualisation des données :
 
 * [Visual Studio Code](https://code.visualstudio.com/) : Environnement de développement intégré hautement personnalisable
 * [Candela](https://candela.readthedocs.io/en/latest/#) : Composantes de visualisation de données JavaScript, R et Python
@@ -215,6 +215,7 @@ Outils et bibliothèques de logiciels libres connus pour la science et la visual
 * [RawGraphs](https://rawgraphs.io/) : Outil de visualisation de données en ligne
 * [Chartist.js](https://gionkunz.github.io/chartist-js/) : Bibliothèque JavaScript pour générer des graphiques simples et réactifs
 * [D3.js](https://d3js.org/) : Bibliothèque JavaScript pour manipuler des documents basés sur des données (recommandée pour les utilisateurs avancés)
+* [TensorFlow](https://www.tensorflow.org/): An open source machine learning library for research and production. (recommandée pour les utilisateurs avancés)
 
 Langages de programmation avec un fort support  pour la visualisation et la science des données :
 
@@ -229,3 +230,29 @@ Nos partenaires offrent de nombreux outils et services, ainsi que des mentors po
 Si votre équipe a besoin de machines virtuelles Azure Data Science, veuillez suivre les instructions suivantes [instructions](./AzureSubscriptionSetup.md).
 
 Prochainement (autres services partenaires)
+
+### Jeux de données
+
+Voici une liste d'ensembles de données que vous pouvez utiliser pour votre hackathon. Ceci n'est qu'une référence et n'est pas une référence holistique des ensembles de données - n'hésitez pas à apporter vos propres ensembles de données au besoin.
+
+* [Public Datasets for testing and prototyping](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets)
+
+* [Microsoft Research Open Data](https://msropendata.com/)
+
+* [3 millions de commandes de chariots Instacart ouvertes](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+* [Visual Data Sets](https://www.visualdata.io/)
+
+* [Broad Institute : Cancer Program Datasets](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
+
+* [Les données ouvertes de la Banque mondiale](https://donnees.banquemondiale.org/)
+
+* [Gouvernement du Canada – Données ouvertes](https://ouvert.canada.ca/fr/donnees-ouvertes)
+
+* [Données ouvertes des gouvernements des États-Unis: Data.gov](https://www.data.gov/)
+
+* [Catalogue de données des Nations Unies](https://undatacatalog.org/home )
+
+* [Données HealthGov](https://healthdata.gov/)
+
+* [Bons ensembles de données pour l'Internet des objets, les senseurs et autres](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
