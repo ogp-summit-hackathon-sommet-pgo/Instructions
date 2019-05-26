@@ -13,17 +13,17 @@ If, instead you already have an idea, start from this tutorial to quickly implem
 
 * [Machine Learning](https://aws.amazon.com/machine-learning/)
   
-	* [Amazon Sagemaker] (https://aws.amazon.com/sagemaker/)
+	* [Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
   	 
-	* [Amazon Sagemaker Worksho] (https://sagemaker-workshop.com/prerequisites/jupyter.html)
+	* [Amazon Sagemaker Worksho](https://sagemaker-workshop.com/prerequisites/jupyter.html)
   	 
-	* [Quick start to deploy a solution for Predictive Data Science and a Data Lake on AWS] (https://aws.amazon.com/quickstart/architecture/predictive-data-science-sagemaker-and-data-lake/)
+	* [Quick start to deploy a solution for Predictive Data Science and a Data Lake on AWS](https://aws.amazon.com/quickstart/architecture/predictive-data-science-sagemaker-and-data-lake/)
 
-* [AI] (https://aws.amazon.com/ai/) 
+* [AI](https://aws.amazon.com/ai/) 
   	
 	*[AI Services](https://aws.amazon.com/machine-learning/ai-services/)
 
-    * Vision APIs: [Amazon Rekognition Image & Video] (https://aws.amazon.com/rekognition/)
+    * Vision APIs: [Amazon Rekognition Image & Video](https://aws.amazon.com/rekognition/)
 
 	* Speech APIs: [Amazon Polly](https://aws.amazon.com/polly/) - text to speech, [Amazon Transcribe](https://aws.amazon.com/transcribe/)
 
@@ -33,9 +33,9 @@ If, instead you already have an idea, start from this tutorial to quickly implem
 	* ChatBot: [Amazon Lex](https://aws.amazon.com/lex/)
 		* QnA bot : [Create a Question and Answer Bot with Amazon Lex and Amazon Alexa](https://aws.amazon.com/blogs/machine-learning/creating-a-question-and-answer-bot-with-amazon-lex-and-amazon-alexa/)
 
-* Jupiter Notebooks: [Amazon EMR Notebooks](https://aws.amazon.com/blogs/big-data/emr-notebooks-a-managed-analytics-environment-based-on-jupyter-notebooks/) , [Amazon Sagemaker] (https://aws.amazon.com/sagemaker/)
+* Jupiter Notebooks: [Amazon EMR Notebooks](https://aws.amazon.com/blogs/big-data/emr-notebooks-a-managed-analytics-environment-based-on-jupyter-notebooks/) , [Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
 
-* Spark & Hadoop Platfrom [Amazon EMR)](https://aws.amazon.com/emr/)
+* Spark & Hadoop Platfrom [Amazon EMR](https://aws.amazon.com/emr/)
 
 * [Deep Learning AMIs](https://aws.amazon.com/machine-learning/amis/) - The AWS Deep Learning AMIs support all the popular deep learning frameworks allowing you to define models and then train them at scale. Built for Amazon Linux and Ubuntu, the AMIs come pre-configured with TensorFlow, PyTorch, Apache MXNet, Chainer, Microsoft Cognitive Toolkit, Gluon, Horovod, and Keras, enabling you to quickly deploy and run any of these frameworks and tools at scale.
 
@@ -43,7 +43,7 @@ If, instead you already have an idea, start from this tutorial to quickly implem
 
 * Compute Services:
 
-  * [Amazon Elastic Compute Cloud (Amazon EC2)]() : is a web service that provides secure, resizable compute  capacity in the cloud. It is designed to make web-scale cloud computing easier for developers
+  * [Amazon Elastic Compute Cloud (Amazon EC2)](https://aws.amazon.com/ec2/) : is a web service that provides secure, resizable compute  capacity in the cloud. It is designed to make web-scale cloud computing easier for developers
   
   * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/): AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS.
 
