@@ -83,6 +83,10 @@ Common known open source tools and libraries for data science and visualization:
 * [Chartist.js](https://gionkunz.github.io/chartist-js/): JavaScript library to generate simple responsive charts
 * [D3.js](https://d3js.org/): JavaScript library for manipulating documents based on data (Recommended for advanced users)
 * [TensorFlow](https://www.tensorflow.org/): An open source machine learning library for research and production. (recommandée pour les utilisateurs avancés)
+* [Apach MxNet](https://mxnet.apache.org/): A flexible and efficient library for deep learning
+* [Pytorch](https://pytorch.org/): An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
+* [ElasticSearch](https://opendistro.github.io/for-elasticsearch-docs/):100% open source distribution of Elasticsearch with advanced security, alerting, deep performance analysis, and more
+* [JupyterNotebook](https://jupyter.org/): an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
 Programming languages with strong data science and visualization support:
 
@@ -98,11 +102,18 @@ If your team will require any cloud services such as pre-configured Data Science
 
 Additionally, once you have setup your team's Azure subscription, you can view these [handy resources](./Technical-Reference-Guide-for-Azure.md) for a quick start on your idea.
 
+To access the AWS cloud platform you need an AWS account. In case you do not have created one yet, the [AWS Free Tier](https://aws.amazon.com/free/) lets you gain experience with the AWS platform, products, and services.
+To create the account you can follow the instructions here: [How do I create and activate a new Amazon Web Services account?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
+Once you created the account to add access to your team members [create additional users in your account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html).
+For information on the services and ideas on how to use them for your challenge see the [following resources](./Technical-Reference-Guide-for-AWS.md) 
+
 Upcoming (other partners services)
 
 ### Data Sets
 
 This is a list of datasets that you can use for your hackathon. This is just for reference and is not a holistic reference of datasets - please feel free to bring in your own datasets as needed.
+
+* [Open Data on AWS](https://registry.opendata.aws/)
 
 * [Public Datasets for testing and
     prototyping](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets)
@@ -216,6 +227,10 @@ Outils et bibliothèques de logiciels libres reconnus pour la science et la visu
 * [Chartist.js](https://gionkunz.github.io/chartist-js/) : Bibliothèque JavaScript pour générer des graphiques simples et réactifs
 * [D3.js](https://d3js.org/) : Bibliothèque JavaScript pour manipuler des documents basés sur des données (recommandée pour les utilisateurs avancés)
 * [TensorFlow](https://www.tensorflow.org/): An open source machine learning library for research and production. (recommandée pour les utilisateurs avancés)
+* [Apach MxNet](https://mxnet.apache.org/): une bibliothèque souple et efficace pour un apprentissage en profondeur
+* [Pytorch](https://pytorch.org/): Plate-forme d'apprentissage en profondeur open source offrant un chemin transparent entre le prototypage de recherche et le déploiement en production.
+* [ElasticSearch](https://opendistro.github.io/for-elasticsearch-docs/): distribution 100% open source d'Elasticsearch avec sécurité avancée, alertes, analyse approfondie des performances, etc.
+* [JupyterNotebook](https://jupyter.org/): application Web à code source ouvert permettant de créer et de partager des documents contenant du code en direct, des équations, des visualisations et du texte narratif. Les utilisations incluent: nettoyage et transformation de données, simulation numérique, modélisation statistique, visualisation de données, apprentissage automatique, etc.
 
 Langages de programmation avec un fort support  pour la visualisation et la science des données :
 
@@ -229,11 +244,18 @@ Nos partenaires offrent de nombreux outils et services, ainsi que des mentors po
 
 Si votre équipe a besoin de machines virtuelles Azure Data Science, veuillez suivre les instructions suivantes [instructions](./AzureSubscriptionSetup.md).
 
+Pour accéder à la plate-forme cloud AWS, vous devez disposer d'un compte AWS. Si vous n'en avez pas encore créé un, le [Niveau gratuit AWS](https://aws.amazon.com/free/) vous permet d'acquérir de l'expérience avec la plate-forme, les produits et les services AWS.
+Pour créer le compte, suivez les instructions ici: [Comment créer et activer un nouveau compte Amazon Web Services?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws -Compte/)
+Une fois que vous avez créé le compte pour ajouter un accès aux membres de votre équipe [créez des utilisateurs supplémentaires dans votre compte](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html).
+Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./ Technical-Reference-Guide-for-AWS.md)
+
 Prochainement (autres services partenaires)
 
 ### Jeux de données
 
 Voici une liste d'ensembles de données que vous pouvez utiliser pour votre hackathon. Ceci n'est qu'une référence et n'est pas une référence holistique des ensembles de données - n'hésitez pas à apporter vos propres ensembles de données au besoin.
+
+* [Open Data on AWS](https://registry.opendata.aws/)
 
 * [Public Datasets for testing and prototyping](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-public-data-sets)
 
