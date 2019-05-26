@@ -242,7 +242,7 @@ Langages de programmation avec un fort support  pour la visualisation et la scie
 
 Nos partenaires offrent de nombreux outils et services, ainsi que des mentors pour vous soutenir dans votre projet.
 
-Si votre équipe a besoin de services en nuage tels que des machines virtuelles "Data Science" préconfigurées, veuillez suivre les [instructionssuivantes pour accéder à un abonnement Azure gratuit pour votre équipe](./AzureSubscriptionSetup.md).Tous les outils et services libres (ex. Kubernetes), de nombreuses distributions Linux, des bases de données de logiciels libres, des outils d'analyses, et des solutions de données volumineuses telles que TensorFlow sont supportés et disponibles chez Azure.
+Si votre équipe a besoin de services en nuage tels que des machines virtuelles "Data Science" préconfigurées, veuillez suivre les [instruction ssuivantes pour accéder à un abonnement Azure gratuit pour votre équipe](./AzureSubscriptionSetup.md).Tous les outils et services libres (ex. Kubernetes), de nombreuses distributions Linux, des bases de données de logiciels libres, des outils d'analyses, et des solutions de données volumineuses telles que TensorFlow sont supportés et disponibles chez Azure.
 
 De plus, une fois que vous avez configuré l'abonnement Azure de votre équipe, vous pouvez consulter ces [ressources pratiques](./Technical-Reference-Guide-for-Azure.md) pour un démarrage rapide de votre idée.
 
