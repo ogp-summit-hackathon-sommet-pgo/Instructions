@@ -249,7 +249,8 @@ Pour accéder à la plate-forme cloud AWS, vous devez disposer d'un compte AWS. 
 
 Pour créer le compte, vous pouvez suivre les [instructions pour configurer votre compte AWS](./AWSAccountSetup.md).
 
-Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./Technical-Reference-Guide-for-AWS.md)
+Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./Technical-Reference-Guide-for-AWS.md).
+
 Prochainement (autres services partenaires)
 
 ### Jeux de données
