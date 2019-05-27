@@ -243,9 +243,15 @@ Langages de programmation avec un fort support  pour la visualisation et la scie
 
 Nos partenaires offrent de nombreux outils et services, ainsi que des mentors pour vous soutenir dans votre projet.
 
-Si votre équipe a besoin de machines virtuelles Azure Data Science, veuillez suivre les instructions suivantes [instructions](./AzureSubscriptionSetup.md).
+Si votre équipe a besoin de services en nuage tels que des machines virtuelles "Data Science" préconfigurées, veuillez suivre les [instruction ssuivantes pour accéder à un abonnement Azure gratuit pour votre équipe](./AzureSubscriptionSetup.md).Tous les outils et services libres (ex. Kubernetes), de nombreuses distributions Linux, des bases de données de logiciels libres, des outils d'analyses, et des solutions de données volumineuses telles que TensorFlow sont supportés et disponibles chez Azure.
+
+De plus, une fois que vous avez configuré l'abonnement Azure de votre équipe, vous pouvez consulter ces [ressources pratiques](./Technical-Reference-Guide-for-Azure.md) pour un démarrage rapide de votre idée.
 
 Pour accéder à la plate-forme cloud AWS, vous devez disposer d'un compte AWS. Si vous n'en avez pas encore créé un, le [Niveau gratuit AWS](https://aws.amazon.com/free/) vous permet d'acquérir de l'expérience avec la plate-forme, les produits et les services AWS.
+
+Pour créer le compte, suivez les instructions ici: [Comment créer et activer un nouveau compte Amazon Web Services?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
+Une fois que vous avez créé le compte pour ajouter un accès aux membres de votre équipe [créez des utilisateurs supplémentaires dans votre compte](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html).
+Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./ Technical-Reference-Guide-for-AWS.md)
 
 Pour créer le compte, vous pouvez suivre les [instructions pour configurer votre compte AWS](./AWSAccountSetup.md).
 
