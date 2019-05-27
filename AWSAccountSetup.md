@@ -9,7 +9,7 @@ Welcome to the OGP Summit Hackathon!
 This guide will show you how to get your team access to your AWS credits for
 the hackathon
 
--   Each team receives \$140 in AWS credits
+-   Each team receives \$140 in AWS credits ; **\*The Credits will not be retroactive**\* any resource billed before the code was claimed will still be invoice and credited toward your payment method.
 
 -   **\*Only one**\* team member should complete the steps in this guide to ensure only one AWS account gets created per team. All other team members will be added to the account as [IAM users](). The conference code will be provided once the hackathon kicks off on May 27th.
 
