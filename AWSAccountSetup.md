@@ -9,7 +9,7 @@ Welcome to the OGP Summit Hackathon!
 This guide will show you how to get your team access to your AWS credits for
 the hackathon
 
--   Each team receives \$140 in AWS credits ; **Promotional Credit can be used only for fees and charges incurred on or after the date you apply the applicable Promotional Credit code to your AWS account and only for the specific Services designated by your AWS contracting entity (collectively, “Eligible Services”).**.
+-   Each team receives \$140 in AWS credits ; **Promotional Credit can be used only for fees and charges incurred on or after the date you apply the applicable Promotional Credit code to your AWS account and only for the specific Services designated by your AWS contracting entity (collectively, “Eligible Services”)**.
 
 -   **\*Only one**\* team member should complete the steps in this guide to ensure only one AWS account gets created per team. All other team members will be added to the account as [IAM users](). The conference code will be provided once the hackathon kicks off on May 27th.
 
