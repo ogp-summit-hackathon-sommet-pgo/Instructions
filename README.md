@@ -247,9 +247,9 @@ Si votre équipe a besoin de machines virtuelles Azure Data Science, veuillez su
 
 Pour accéder à la plate-forme cloud AWS, vous devez disposer d'un compte AWS. Si vous n'en avez pas encore créé un, le [Niveau gratuit AWS](https://aws.amazon.com/free/) vous permet d'acquérir de l'expérience avec la plate-forme, les produits et les services AWS.
 
-Pour créer le compte, vous pouvez suivre les [instructions pour configurer votre compte AWS](./ AWSAccountSetup.md).
+Pour créer le compte, vous pouvez suivre les [instructions pour configurer votre compte AWS](./AWSAccountSetup.md).
 
-Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./ Technical-Reference-Guide-for-AWS.md)
+Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./Technical-Reference-Guide-for-AWS.md)
 Prochainement (autres services partenaires)
 
 ### Jeux de données
