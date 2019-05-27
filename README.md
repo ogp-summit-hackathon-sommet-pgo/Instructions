@@ -103,9 +103,10 @@ If your team will require any cloud services such as pre-configured Data Science
 Additionally, once you have setup your team's Azure subscription, you can view these [handy resources](./Technical-Reference-Guide-for-Azure.md) for a quick start on your idea.
 
 To access the AWS cloud platform you need an AWS account. In case you do not have created one yet, the [AWS Free Tier](https://aws.amazon.com/free/) lets you gain experience with the AWS platform, products, and services.
-To create the account you can follow the instructions here: [How do I create and activate a new Amazon Web Services account?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
-Once you created the account to add access to your team members [create additional users in your account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html).
-For information on the services and ideas on how to use them for your challenge see the [following resources](./Technical-Reference-Guide-for-AWS.md) 
+
+To create the account you can follow the [instructions to setup your AWS Account](./AWSAccountSetup.md).
+
+For information on the services and ideas on how to use them for your challenge see the [following resources](./Technical-Reference-Guide-for-AWS.md).
 
 Upcoming (other partners services)
 
@@ -247,11 +248,16 @@ Si votre équipe a besoin de services en nuage tels que des machines virtuelles 
 De plus, une fois que vous avez configuré l'abonnement Azure de votre équipe, vous pouvez consulter ces [ressources pratiques](./Technical-Reference-Guide-for-Azure.md) pour un démarrage rapide de votre idée.
 
 Pour accéder à la plate-forme cloud AWS, vous devez disposer d'un compte AWS. Si vous n'en avez pas encore créé un, le [Niveau gratuit AWS](https://aws.amazon.com/free/) vous permet d'acquérir de l'expérience avec la plate-forme, les produits et les services AWS.
+
 Pour créer le compte, suivez les instructions ici: [Comment créer et activer un nouveau compte Amazon Web Services?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
 Une fois que vous avez créé le compte pour ajouter un accès aux membres de votre équipe [créez des utilisateurs supplémentaires dans votre compte](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html).
 Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./ Technical-Reference-Guide-for-AWS.md)
 
-Prochainement (autres services partenaires)
+Pour créer le compte, vous pouvez suivre les [instructions pour configurer votre compte AWS](./AWSAccountSetup.md).
+
+Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./Technical-Reference-Guide-for-AWS.md).
+
+Prochainement (autres services partenaires).
 
 ### Jeux de données
 
