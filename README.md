@@ -251,7 +251,7 @@ Pour créer le compte, vous pouvez suivre les [instructions pour configurer votr
 
 Pour plus d'informations sur les services et des idées sur la façon de les utiliser pour votre défi, voir les [ressources suivantes](./Technical-Reference-Guide-for-AWS.md).
 
-Prochainement (autres services partenaires)
+Prochainement (autres services partenaires).
 
 ### Jeux de données
 
